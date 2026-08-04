@@ -1,0 +1,3 @@
+# Menu Bar and Release Manual Test
+
+Launch and complete onboarding; verify the menu icon; close and reopen the window; toggle Dock visibility; explicitly enable Launch at Login and restart macOS; pair two Macs; share a folder; close both windows and verify background sync; sleep and wake one Mac; disconnect and restore Wi-Fi/Ethernet; verify reconciliation, Finder badges, pause/resume, conflict handling, and persistence after explicit quit. Then test English and Turkish, export diagnostics and inspect for sensitive data, build Release, and confirm Debug localhost/insecure functionality is absent. Record actual results rather than inferring system approval or extension enablement.

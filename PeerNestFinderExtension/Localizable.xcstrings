@@ -1,0 +1,86 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "Pause Sync" : {
+      "comment" : "Finder contextual menu",
+      "extractionState" : "stale",
+      "localizations" : {
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Eşitlemeyi Duraklat"
+          }
+        }
+      }
+    },
+    "Resume Sync" : {
+      "comment" : "Finder contextual menu",
+      "extractionState" : "stale",
+      "localizations" : {
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Eşitlemeyi Sürdür"
+          }
+        }
+      }
+    },
+    "Share with PeerNest" : {
+      "comment" : "Finder contextual menu",
+      "localizations" : {
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PeerNest ile Paylaş"
+          }
+        }
+      }
+    },
+    "Show in PeerNest" : {
+      "comment" : "Finder contextual menu",
+      "localizations" : {
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PeerNest'te Göster"
+          }
+        }
+      }
+    },
+    "Show Shared Folder in PeerNest" : {
+      "comment" : "Finder contextual menu",
+      "localizations" : {
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Paylaşılan Klasörü PeerNest'te Göster"
+          }
+        }
+      }
+    },
+    "Stop Sharing with PeerNest" : {
+      "comment" : "Finder contextual menu",
+      "localizations" : {
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Paylaşımı Durdur"
+          }
+        }
+      }
+    },
+    "View Sync Status" : {
+      "comment" : "Finder contextual menu",
+      "extractionState" : "stale",
+      "localizations" : {
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Eşitleme Durumunu Gör"
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}
